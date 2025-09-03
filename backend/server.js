@@ -63,7 +63,6 @@ Requirements:
 - Each question should be numbered (1., 2., etc.)
 - Questions should be age-appropriate and relevant to the core curriculum of the class
 - Include a mix of question types:
-  - Multiple Choice Questions (select the correct answer from the options) in all Easy difficulty level.
   - Short Answer Questions (brief explanations, definitions, or calculations)
   - Long Answer / Essay Questions (detailed reasoning, problem-solving, derivations)
 - Avoid diagrammatic questions
