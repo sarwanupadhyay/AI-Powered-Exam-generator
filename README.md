@@ -1,12 +1,11 @@
 # AI Exam Paper Generator
 
-A full-stack web application that allows primary school math teachers to generate custom math exams using AI. Built with React (frontend) and Node.js/Express (backend), integrated with Google's Gemini AI.
+A full-stack web application that allows school teachers to generate custom exams using AI. Built with React (frontend) and Node.js/Express (backend), integrated with Google's Gemini AI.
 
 ## 🚀 Features
 
 - **AI-Powered Question Generation**: Uses Google Gemini AI to create age-appropriate math questions
-- **Multiple Math Topics**: Addition, Subtraction, Multiplication, Division, Fractions, Decimals, Word Problems, Geometry, Time & Money, Measurement, Data & Graphs
-- **Customizable Parameters**: Choose number of questions (1-20) and grade level
+- **Customizable Parameters**: Choose number of questions (1-30) and grade level of students
 - **Professional Exam Layout**: Clean, printable exam format with student information fields
 - **Export Options**: Print directly or download as text file
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
@@ -203,4 +202,4 @@ If you encounter any issues:
 
 ---
 
-**Happy Teaching! 📚✨**"# exam-generator" 
+**Happy Teaching! 📚✨**"# Ai-Powered-exam-generator" 
