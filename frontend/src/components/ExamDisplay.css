@@ -105,6 +105,17 @@
   transform: translateY(-1px);
 }
 
+/* NEW: Excel button styling */
+.excel-btn {
+  background: #0f7b0f;
+  color: white;
+}
+
+.excel-btn:hover {
+  background: #0d6b0d;
+  transform: translateY(-1px);
+}
+
 .new-exam-btn {
   background: #ea4335;
   color: white;
@@ -266,18 +277,15 @@
     size: A4;
     padding-bottom: 30px;
     padding-top: 10px;
-
   }
   
   .exam-display {
     max-width: none;
     padding: 0;
-    
   }
   
   .exam-header {
     display: none !important;
-    
   }
   
   .exam-paper {
@@ -290,7 +298,6 @@
   
   .exam-title {
     font-size: 2.3rem;
-    
   }
   
   .question-item {
@@ -474,6 +481,10 @@
   .action-btn:hover {
     transform: none; /* Disable hover effects on touch devices */
   }
+  
+  .excel-btn:hover {
+    transform: none;
+  }
 }
 
 /* High contrast mode support */
@@ -495,6 +506,10 @@
   }
   
   .action-btn:hover {
+    transform: none;
+  }
+  
+  .excel-btn:hover {
     transform: none;
   }
 }

@@ -8,6 +8,8 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+
+//change this when deploying
 // app.use(cors());
 // Middleware
 app.use(cors({

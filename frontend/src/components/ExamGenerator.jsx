@@ -44,8 +44,8 @@ const ExamGenerator = ({ onGenerate, onLoadingChange, onError }) => {
 
     try {
       const API_BASE_URL = import.meta.env.VITE_API_URL || "";
-
-      const response = await axios.post(`${API_BASE_URL}/generate-exam`, 
+//change this url when deploying??
+      const response = await axios.post(`${API_BASE_URL}/generate-exam`,
   //       const response = await axios.post(
   // "http://localhost:5000/generate-exam",
         {
