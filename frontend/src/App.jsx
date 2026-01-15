@@ -70,7 +70,7 @@ function App() {
         </main>
 
         <footer className="app-footer no-print">
-          <p>&copy; 2025 AI Exam Generator. Built for educators.</p>
+          <p>&copy; 2026 AI Exam Generator. Built for educators.</p>
         </footer>
       </div>
     </div>
