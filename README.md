@@ -202,4 +202,3 @@ If you encounter any issues:
 
 ---
 
-**Happy Teaching! 📚✨**"# Ai-Powered-exam-generator" 
